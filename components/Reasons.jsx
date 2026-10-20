@@ -4,12 +4,12 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 
 const REASONS = [
-  "Because you answer to 'Master' without blinking.",
-  "Because the fire service taught you to run toward what everyone else runs from — and you actually do.",
-  "Because 'Chief Akaoma Jideaku' carries weight, but you carry it like it's nothing.",
+  "Because you go above and beyond for your loved ones.",
+  "Because you always make me feel like everything is possible and nothing can stop me as long as i am with you.",
+  "Because you have always shown me nothing but unconditional love, even when i misbehave(and i know i misbehave a lot😅).",
   "Because you make 'showing up' look easy, even when it isn't.",
-  "Because Infinito is the right name for you — you give more than you take.",
-  "Because you're still the same person you were before the titles.",
+  "Because you always give more than you take.",
+  "Because you are INFINITO SENIOR MAN!!!!.",
 ];
 
 export default function Reasons({ onContinue }) {

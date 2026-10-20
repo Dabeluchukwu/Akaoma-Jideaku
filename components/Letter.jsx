@@ -8,8 +8,11 @@ const LETTER_LINES = [
   "Happy birthday, Infinito.",
   "I've been thinking about what to say to a man who already has a chieftaincy title, a badge, and a nickname that means 'infinite.' What do you give the guy who already carries so much?",
   "So I built you this instead.",
-  "Thank you for being the kind of person people can lean on — at the station, in the palace, and in my life. You make 'showing up' look easy, Chief Akaoma Jideaku. But I see you. I always have.",
-  "Today, the fireman gets to rest. Let someone else carry the weight for once.",
+  "Thank you for believing in me, even before I could fully see what I was capable of. You sponsored my trainings, bought me my first laptop, and gave me the opportunity to become the developer I am today. But beyond all that, you gave me a home, food, shelter, love, and the kind of support that money alone could never measure. A huge part of the man I am becoming is because you chose to invest in me.",
+  "Sometimes, I wonder if you truly understand how much your sacrifices mean to me. You haven't just helped me learn a skill; you've helped me build a future. And I pray that one day, I become someone who makes you look back at everything you've done for me and smile with pride. I hope I can give you even a fraction of the happiness, comfort, and peace you've given me.",
+  "On your birthday, my prayer is that God blesses you beyond anything you could ever ask for. May He reward every sacrifice you've made in silence, replenish every strength you've spent on others, and grant you good health, long life, peace of mind, and unending joy. May doors open for you in places you never imagined, may your efforts never be wasted, and may you always have reasons to smile. May the same God who has used you to be a blessing in my life surround you with blessings of your own.",
+  "Thank you for being more than a brother to me. Thank you for being a pillar, a guide, a provider, and one of the greatest blessings God has placed in my life. No website, letter, or gift could ever fully express my gratitude, but I hope this little corner of the internet reminds you of how deeply you are loved and appreciated.",
+  "Happy birthday, Master. May your years ahead be filled with everything beautiful that your heart deserves. I love you, and I pray that I make you proud.",
   "Happy birthday, Master. 🕯️",
 ];
 

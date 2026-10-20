@@ -6,11 +6,11 @@ import Image from "next/image";
 const MEMORIES = [
   {
     src: "/photos/1.jpg",
-    caption: "The day we first met.",
+    caption: "Keep smilling, whatever the situation (rain beat us that day ehhh😂).",
   },
   {
     src: "/photos/2.jpg",
-    caption: "That laugh I'll never forget.",
+    caption: "His Excellency, Sir!.",
   },
   {
     src: "/photos/3.jpg",
@@ -22,12 +22,42 @@ const MEMORIES = [
   },
   {
     src: "/photos/5.jpg",
-    caption: "A moment only we understand.",
+    caption: "Espirit De Corps!!!.",
   },
   {
     src: "/photos/6.jpg",
-    caption: "Still my favorite person.",
+    caption: "The best brother anyone can ask for.",
   },
+   {
+    src: "/photos/7.jpg",
+    caption: "I believe in you master!.",
+  },
+  {
+    src: "/photos/8.jpg",
+    caption: "Nwoke di godi gorgeous.",
+  },
+  {
+    src: "/photos/9.jpg",
+    caption: "Infinito Senior Man!!!!.",
+  },
+  {
+    src: "/photos/10.jpg",
+    caption: "Chief Akaoma Jideaku!.",
+  },
+  {
+    src: "/photos/11.jpg",
+    caption: "Best senior brother in the world.",
+  },
+  {
+    src: "/photos/12.jpg",
+    caption: "Never stop smilling master.",
+  },
+  {
+    src: "/photos/13.jpg",
+    caption: "All white, cant stain!!!.",
+  },
+  
+  
 ];
 
 export default function Memories({ onContinue }) {

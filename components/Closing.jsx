@@ -49,7 +49,7 @@ export default function Closing({ onContinue }) {
         transition={{ delay: 2.2, duration: 1.2 }}
         className="text-[#94a3b8] text-sm tracking-[0.2em] uppercase mb-20"
       >
-        — Your small one
+        — Your boy
       </motion.p>
 
       <motion.button
